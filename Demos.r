@@ -1,2 +1,2 @@
-demo() #List demonstrations in attahced packages
-demo(package = .packages(all.availalbe = TRUE))
+demo() #List demonstrations in attached packages
+demo(package = .packages(all.available = TRUE)) #List demonstrations in all installed packages
